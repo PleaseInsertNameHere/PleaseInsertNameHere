@@ -75,4 +75,4 @@
 
 <h1 align="center">My Github Stats</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pleaseinsertnamehere&show_icons=true&locale=en&hide_border=true&bg_color=161b22&title_color=e7ebda&text_color=e7ebda&icon_color=e7ebda" alt="pleaseinsertnamehere" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pleaseinsertnamehere&show_icons=true&locale=en&hide_border=true&bg_color=161b22&title_color=e7ebda&text_color=e7ebda&icon_color=e7ebda" alt="pleaseinsertnamehere" /></p>
