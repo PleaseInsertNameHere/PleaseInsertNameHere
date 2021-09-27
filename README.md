@@ -7,7 +7,7 @@
 
 
 ## Some Github stats
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pleaseinsertnamehere&show_icons=true" />
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pleaseinsertnamehere&show_icons=true&bg_color=161b22&title_color=e7ebda&text_color=e7ebda&icon_color=e7ebda" />
 
 ## What I'm using:
 - Github
