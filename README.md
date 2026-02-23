@@ -21,6 +21,8 @@ Interested in server infrastructure, security and cryptography
   <a href="https://bsky.app/profile/pleaserenameme.bsky.social" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=flat" height="35" alt="bluesky logo" />
   </a>
+
+  <img height="35" src="https://visitor-badge.laobi.icu/badge?page_id=PleaseInsertNameHere.PleaseInsertNameHere&" />
 </div>
 
 <div align="left">
@@ -70,11 +72,3 @@ Interested in server infrastructure, security and cryptography
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PleaseInsertNameHere&theme=dracula" height="150" alt="repos per language" />
   <br />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PleaseInsertNameHere.PleaseInsertNameHere&" />
-</div>
-
-###
