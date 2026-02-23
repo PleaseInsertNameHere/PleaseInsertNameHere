@@ -1,11 +1,11 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/prtZlWqXstkAAAAd/gaming-vibes.gif" />
 
-**Hi there 👋**
+**Hi there 👋**<br>
 
-I'm an open-source developer and project maintainer.
-🧑 Maintainer @ PowerNukkitX • RedstoneCloud • LostPlace
-🔧 Java • Python • Rust (learning)
-
+I'm an open-source developer and project maintainer.<br>
+🧑 Maintainer @ PowerNukkitX • RedstoneCloud • LostPlace<br>
+🔧 Java • Python • Rust (learning)<br>
+<br>
 Interested in server infrastructure, security and cryptography
 
 <div>
