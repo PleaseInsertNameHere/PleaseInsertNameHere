@@ -1,7 +1,6 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/prtZlWqXstkAAAAd/gaming-vibes.gif" />
 
-## Hi there 👋
-
+**Hi there 👋**
 
 I'm an open-source developer and project maintainer.
 🧑 Maintainer @ PowerNukkitX • RedstoneCloud • LostPlace
