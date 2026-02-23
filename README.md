@@ -1,6 +1,6 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/prtZlWqXstkAAAAd/gaming-vibes.gif" />
 
-<h2 align="left">Hi there 👋</h2>
+## Hi there 👋
 
 
 I'm an open-source developer and project maintainer.
