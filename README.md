@@ -2,11 +2,10 @@
 
 **Hi there 👋**<br>
 
-I'm an open-source developer and project maintainer.<br>
-🧑 Maintainer @ PowerNukkitX • RedstoneCloud • LostPlace<br>
-🔧 Java • Python • Rust (learning)<br>
+I'm an open-source developer and project maintainer from Europe interested in server infrastructure, security and cryptography.
 <br>
-Interested in server infrastructure, security and cryptography
+🧑 Maintainer @ PowerNukkitX • RedstoneCloud • LostPlace<br>
+🔧 Java • Python • Rust (learning)
 
 <div>
   <img style="100%"
