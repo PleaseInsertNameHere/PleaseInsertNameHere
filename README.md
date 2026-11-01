@@ -1,16 +1,10 @@
+## **Hi there 👋**
+
 <img align="right" height="150" src="https://media1.tenor.com/m/prtZlWqXstkAAAAd/gaming-vibes.gif" />
 
-**Hi there 👋**<br>
-
-I'm an open-source developer and project maintainer from Europe interested in server infrastructure, security and cryptography.
 <br>
-🧑 Maintainer @ PowerNukkitX • RedstoneCloud • LostPlace<br>
-🔧 Java • Python • Rust (learning)
-
-<div>
-  <img style="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
-</div>
+I'm an open-source developer and project maintainer from Europe interested in server infrastructure, security and cryptography.
+<br><br>
 
 <div align="left">
   <a href="https://discord.com" target="_blank">
@@ -22,6 +16,16 @@ I'm an open-source developer and project maintainer from Europe interested in se
 
   <img height="35" src="https://visitor-badge.laobi.icu/badge?page_id=PleaseInsertNameHere.PleaseInsertNameHere&" />
 </div>
+
+### Maintainer
+
+I am maintaining a variety of projects. My main occupations are:
+- [PowerNukkitX](<https://github.com/PowerNukkitX/>) (development and code review)
+- [Troporia Network](<https://github.com/troporia>) (developing internal systems)
+- [LostPlace](<https://github.com/LostPlace>) (developing internal systems)
+
+### Tech Stack
+I am familiar with the tools and languages listed below. However, in terms of languages, I mainly make use of Java and Kotlin.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
@@ -55,18 +59,18 @@ I'm an open-source developer and project maintainer from Europe interested in se
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
 </div>
 
-###
-
-<br clear="both">
+### Github Stats
 
 <img src="https://raw.githubusercontent.com/PleaseInsertNameHere/PleaseInsertNameHere/output/snake.svg" alt="Snake animation" />
 
-###
+<br>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PleaseInsertNameHere&theme=dracula" alt="profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PleaseInsertNameHere&theme=dracula" height="150" alt="stats" />
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PleaseInsertNameHere&theme=dracula" height="150" alt="stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PleaseInsertNameHere&theme=dracula&utcOffset=1" height="150" alt="productive time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PleaseInsertNameHere&theme=dracula" height="150" alt="repos per language" />
+  </div>
   <br />
 </div>
